@@ -1,5 +1,4 @@
 ﻿using System.Windows;
-using WiredBrainsCoffee.CustomersApp.Data;
 using WiredBrainsCoffee.CustomersApp.ViewModel;
 
 namespace WiredBrainsCoffee.CustomersApp

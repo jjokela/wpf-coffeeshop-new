@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Threading.Tasks;
-using WiredBrainsCoffee.CustomersApp.Model;
+﻿using WiredBrainsCoffee.CustomersApp.Model;
 
 namespace WiredBrainsCoffee.CustomersApp.Data
 {

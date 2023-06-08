@@ -1,5 +1,4 @@
-﻿using System.Threading.Tasks;
-using WiredBrainsCoffee.CustomersApp.Command;
+﻿using WiredBrainsCoffee.CustomersApp.Command;
 
 namespace WiredBrainsCoffee.CustomersApp.ViewModel
 {
